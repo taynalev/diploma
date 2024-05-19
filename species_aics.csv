@@ -1,0 +1,56 @@
+species,ecosites_empo3_old,genomes_obtained,status,genomes,approximation for all,AIC exp,AIC power,AIC exp random10,AIC pwr random10,approximation random
+Salinibacter ruber,"['Animal surface', 'Surface (non-saline)']",9,specialist,9,exp,75.411,76.69,,,
+Candidatus Carsonella ruddii,"['Water (non-saline)', 'Animal surface']",9,specialist,9,exp,53.297,63.073,,,
+Paenibacillus larvae,"['Animal corpus', 'Water (non-saline)', 'Animal distal gut']",9,specialist,9,pwr,100.206,97.489,,,
+Bifidobacterium bifidum,['Plant rhizosphere'],10,specialist,10,exp,87.420,87.900,,,
+Rhodopseudomonas palustris,['Water (non-saline)'],9,specialist,9,exp,90.566,105.939,,,
+Staphylococcus simulans,"['Surface (non-saline)', 'Animal surface', 'Animal secretion']",9,specialist,9,pwr,91.271,86.797,,,
+Weissella cibaria,['Animal surface'],9,specialist,9,pwr,75.900,72.280,,,
+Pantoea ananatis,['Animal secretion'],9,specialist,9,exp,68.119,83.301,,,
+Lactobacillus salivarius,"['Animal proximal gut', 'Aerosol (non-saline)']",10,specialist,10,exp,67.551,85.02,,,
+Lactobacillus johnsonii,['Animal secretion'],12,specialist,12,exp,88.820,111.396,133.512,129.168,pwr
+Vibrio campbellii,['Water (non-saline)'],12,specialist,12,exp,121.862,141.604,122.925,122.392,pwr
+Mesoplasma florum,"['Animal corpus', 'Animal surface']",12,specialist,12,exp,84.716,86.581,95.729,91.576,pwr
+Staphylococcus haemolyticus,"['Animal surface', 'Animal secretion']",11,specialist,11,exp,77.763,87.863,112.520,107.985,pwr
+Riemerella anatipestifer,['Water (saline)'],11,specialist,11,exp,103.751,121.755,113.823,109.831,pwr
+Bacillus altitudinis,"['Animal proximal gut', 'Animal surface']",14,specialist,14,exp,106.396,119.923,123.950,119.442,pwr
+Pediococcus acidilactici,"['Surface (non-saline)', 'Animal surface', 'Animal distal gut']",15,specialist,15,exp,117.613,133.349,118.678,114.393,pwr
+Vibrio anguillarum,['Water (non-saline)'],15,specialist,15,exp,132.866,152.624,143.833,139.258,pwr
+Zymomonas mobilis,"['Animal surface', 'Surface (non-saline)']",13,specialist,13,exp,107.823,109.048,117.047,112.855,pwr
+Propionibacterium freudenreichii,['Animal secretion'],17,specialist,17,exp,136.623,162.769,125.118,120.840,pwr
+Xylella fastidiosa,"['Soil (non-saline)', 'Animal surface']",19,specialist,19,exp,154.543,167.143,121.996,117.934,pwr
+Morganella morganii,"['Water (non-saline)', 'Animal surface']",17,specialist,17,exp,155.117,173.554,137.552,132.539,pwr
+Leptospira interrogans,['Water (non-saline)'],20,specialist,20,pwr,257.278,242.65,160.173,155.247,pwr
+Lactobacillus brevis,"['Animal secretion', 'Animal surface', 'Animal distal gut']",20,specialist,20,exp,161.202,205.217,141.449,136.648,pwr
+Histophilus somni,"['Animal surface', 'Animal secretion']",21,specialist,21,exp,175.983,186.072,105.606,101.320,pwr
+Burkholderia cenocepacia,"['Soil (non-saline)', 'Plant rhizosphere', 'Animal secretion']",21,specialist,21,exp,251.357,271.388,153.005,148.410,pwr
+Porphyromonas gingivalis,"['Surface (non-saline)', 'Animal secretion']",21,specialist,21,exp,175.983,186.072,130.433,126.287,pwr
+Corynebacterium diphtheriae,['Animal secretion'],22,specialist,22,exp,192.178,211.785,126.192,122.031,pwr
+Xanthomonas campestris,['Surface (saline)'],24,specialist,24,exp,231.460,251.255,105.984,109.090,pwr
+Mycoplasma bovis,['Surface (non-saline)'],23,specialist,23,exp,147.978,164.669,84.688,80.861,pwr
+Cupriavidus taiwanensis,['Soil (non-saline)'],39,specialist,39,exp,408.922,468.383,164.306,161.146,pwr
+Francisella tularensis,"['Plant surface', 'Animal surface', 'Animal distal gut']",47,specialist,47,exp,414.814,444.225,,,
+Neisseria gonorrhoeae,"['Animal secretion', 'Surface (non-saline)']",56,specialist,56,exp,534.324,536.619,,,
+Enterobacter hormaechei,"['Water (non-saline)', 'Animal distal gut']",60,specialist,60,pwr,911.112,906.920,,,
+Vibrio cholerae,"['Water (non-saline)', 'Water (saline)']",62,specialist,62,exp,657.975,670.455,,,
+Neisseria meningitidis,"['Surface (non-saline)', 'Animal surface', 'Animal secretion']",116,specialist,116,pwr,1077.880,1122.494,,,
+Corynebacterium pseudotuberculosis,['Animal proximal gut'],116,specialist,116,exp,821.338,833.342,,,
+Chlamydia trachomatis,['Surface (non-saline)'],127,specialist,127,exp,407.741,803.227,,,
+Acinetobacter indicus,"['Soil (non-saline)', 'Animal secretion', 'Hypersaline (saline)', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Surface (saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Plant corpus', 'Sediment (non-saline)', 'Plant rhizosphere']",11,generalist,11,exp,81.708,108.073,128.055,123.871,
+Bacillus pumilus,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Plant corpus', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",12,generalist,12,exp,101.535,114.178,,,
+Bacillus megaterium,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Water (saline)', 'Animal distal gut', 'Plant surface', 'Plant corpus', 'Sediment (non-saline)', 'Plant rhizosphere']",14,generalist,14,exp,117.063,151.968,,,
+Agrobacterium tumefaciens,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Plant corpus', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",21,generalist,21,exp,233.013,256.196,,,
+Pseudomonas fluorescens,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Plant corpus', 'Surface (saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",32,generalist,32,exp,326.694,435.421,,,
+Mycobacterium avium,"['Soil (non-saline)', 'Animal secretion', 'Sediment (saline)', 'Animal surface', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",32,generalist,32,exp,357.414,362.409,,,
+Pseudomonas putida,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Plant corpus', 'Sediment (non-saline)', 'Plant rhizosphere']",36,generalist,36,exp,402.804,463.879,,,
+Stenotrophomonas maltophilia,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Surface (saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Plant rhizosphere']",42,generalist,42,exp,454.764,486.914,,,
+Lactococcus lactis,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Plant corpus', 'Sediment (non-saline)', 'Plant rhizosphere']",42,generalist,42,exp,409.0123,480.868,,,
+Clostridium botulinum,"['Soil (non-saline)', 'Animal secretion', 'Sediment (saline)', 'Animal surface', 'Aerosol (non-saline)', 'Surface (non-saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Sediment (non-saline)', 'Plant rhizosphere']",49,generalist,49,pwr,701.808,697.470,,,
+Enterococcus faecalis,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Plant corpus', 'Plant rhizosphere']",58,generalist,58,exp,623.076,625.084,,,
+Bacillus thuringiensis,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Plant corpus', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",65,generalist,65,exp,796.397,910.872,,,
+Bacillus cereus,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Plant corpus', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Water (saline)', 'Animal distal gut', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",82,generalist,82,exp,901.473,1026.255,,,
+Bacillus subtilis,"['Soil (non-saline)', 'Animal secretion', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Plant corpus', 'Plant rhizosphere']",151,generalist,151,exp,1681.575,1763.870,,,
+Acinetobacter baumannii,"['Soil (non-saline)', 'Animal secretion', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",183,generalist,183,pwr,2118.388,2141.233,,,
+Pseudomonas aeruginosa,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Plant rhizosphere']",262,generalist,41,pwr,612.939,504.799,,,
+Klebsiella pneumoniae,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Sediment (saline)', 'Animal surface', 'Surface (non-saline)', 'Aerosol (non-saline)', 'Animal proximal gut', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface']",503,generalist,72,pwr,1107.641,933.452,,,
+Escherichia coli,"['Soil (non-saline)', 'Animal secretion', 'Animal corpus', 'Plant corpus', 'Animal surface', 'Surface (non-saline)', 'Sediment (saline)', 'Animal proximal gut', 'Surface (saline)', 'Water (non-saline)', 'Animal distal gut', 'Water (saline)', 'Plant surface', 'Sediment (non-saline)', 'Plant rhizosphere']",1117,generalist,201,exp,2665.892,2665.914,,,

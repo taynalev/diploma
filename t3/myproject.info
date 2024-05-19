@@ -1,0 +1,4 @@
+SYSTEMCALL of Fri Apr 26 14:34:45 2024:
+proteinortho L1:115.fasta L1:440:LN.fasta L2b:8200:07.fasta L2b:Ams3.fasta L2b:CV204.fasta L2b:LST.fasta L1:1322:p2.fasta L2:25667R.fasta L2b:Ams1.fasta L2b:Ams4.fasta L2b:Canada1.fasta L2b:UCH-2.fasta L1:224.fasta L2:434:Bu.fasta L2b:Ams2.fasta L2b:Ams5.fasta L2b:Canada2.fasta L3:404:LN.fasta -e=1e-10
+Parameter-vector : (version=6.0.33,step=0,verbose=1,debug=0,exactstep3=0,synteny=0,duplication=2,cs=3,alpha=0.5,connectivity=0.1,cpus=0,evalue=1e-10,purity=1e-07,coverage=50,identity=25,blastmode=diamond,sim=0.95,report=3,keep=0,force=0,selfblast=0,twilight=0,singles=0,clean=0,blastOptions=,makeBlastOptions=,nograph=0,xml=0,desc=0,tmp_path=./proteinortho_cache_myproject/,blastversion=unknown,binpath=,makedb=,blast=,jobs_todo=0,project=myproject,po_path=/usr/bin/,run_id=,threads_per_process=1,useMcl=0,freemem=-1)
+--------
